@@ -1,0 +1,19 @@
+Life Cycle of a Data Science Project:
+
+1. Data Analysis
+2. Feature Engineering
+3. Feature selection
+4. Model building
+5. Model Deployment
+
+
+Data Analysis:
+In Data Analysis we analyze to find out the following stuff
+    1. Missing Values
+    2. All the Numerical Values
+    3. Distribution of the Numerical Values
+    4. Categorical Variables
+    5. Cardinality of Categorical Variables
+    6. Outliers
+    7. Relationships between independent and dependent features(Sale Price)
+
