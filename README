@@ -17,3 +17,9 @@ In Data Analysis we analyze to find out the following stuff
     6. Outliers
     7. Relationships between independent and dependent features(Sale Price)
 
+Feature Engineering:
+In feature engineering i'll be covering the following steps
+    1. Handling missing values (w.r.t Categorical and numerical features)
+    2. Handling temporal variables
+    3. Categorical variables: remove rare labels
+    4. Standardise the value of the variables to some range
